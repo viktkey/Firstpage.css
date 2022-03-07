@@ -1,0 +1,304 @@
+.first_page {
+    height: 1045px;
+    background-image: url("/src/assets/layout/Rectangle 3.png");
+}
+
+.menu_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.main_menu {
+    width: 825px;
+    height: 25px;
+    margin-left: 405px;
+}
+
+.menu {
+    margin: 63px;
+    font-family: Open Sans Condensed;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.f_p_phonenumber {
+    font-family: Open Sans Condensed;
+    font-size: 16px;
+    width: 110px;
+    height: 22px;
+    margin-right: 405px;
+    margin-left: 165px;
+    color: white;
+    border-bottom: 2px solid #D1A954;
+}
+
+a {
+    color: white;
+}
+
+a:active {
+    color: crimson;
+}
+
+.container_frstp{
+    height: 760px;
+
+
+}
+
+.t_theatre{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 20px;
+    height: 100px;
+}
+
+.t_theatre_container{
+    width: 540px;
+    height: 70px;
+    margin-left: 405px;
+    font-family: Open Sans Condensed;
+    color: white;
+    margin-top: 200px;
+}
+.theatre{
+    font-size: 65px;
+    height: 70px;
+    width: 540px;
+}
+.theatre_t{
+    font-family: "Open Sans";
+    font-size: 14px;
+}
+
+.but{
+    background-color: darkgoldenrod;
+    min-width: 100px;
+    padding-left: 47px;
+    padding-right: 47px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border: none;
+    color: white;
+    font-family: Open Sans Condensed;
+}
+
+.picture_container{
+    background-image: url("/src/assets/layout/image 3.png");
+    width: 350px;
+    height: 490px;
+    margin-left: 1070px;
+
+}
+
+.secondpage{
+    background-color: #333333;
+    height: 2400px;
+}
+
+.name_teee{
+    margin-top: 20px;
+    align-items: center;
+    margin-left: 827px;
+    font-size: 48px;
+    font-family: Open Sans Condensed;
+    color: white;
+    padding-top: 150px;
+}
+
+.theatre_two{
+    height: 270px;
+    margin-left: 400px;
+    margin-top: 100px;
+    font-family: Open Sans Condensed;
+    color: white;
+    display: flex;
+}
+
+
+.text{
+    width: 450px;
+    height: 210px;
+}
+.twoo{
+    font-size: 21px;
+    margin-left: 40px;
+    margin-bottom: 100px;
+    width: 445px;
+    height: 210px;
+
+}
+
+.twoooo{
+    font-size: 14px;
+    margin-top: 70px;
+    width: 445px;
+    height: 210px;
+    margin-left: -500px;
+    font-family: Open Sans;
+}
+
+.numb{
+    width: 255px;
+    height: 23px;
+    font-family: Open Sans Condensed;
+    margin-left: 30px;
+    margin-bottom: 4300px;
+    font-size: 21px;
+}
+
+.vector{
+    width: 166px;
+    height: 17px;
+    margin-left: -234px;
+    margin-top: 70px;
+}
+
+.imggg{
+    background-image: url("/src/assets/layout/Rectangle 12.png");
+    width: 350px;
+    height: 292px;
+    margin-left: 200px;
+    margin-top: -260px;
+}
+
+.vec1{
+    background-image: url("/src/assets/layout/Vector(1).png");
+    width: 62px;
+    height: 40px;
+}
+
+.vec2{
+    background-image: url("/src/assets/layout/Vector.png");
+    width: 70px;
+    height: 65px;
+    margin-top: 30px;
+}
+
+.chair{
+    color: #D1A954;
+    font-family: Open Sans Condensed;
+    font-size: 16px;
+}
+.chair1{
+    margin-top: -35px;
+    margin-left: 40px;
+    font-family: Open Sans Condensed;
+    font-size: 16px;
+}
+
+.history{
+    color: #D1A954;
+    font-size: 16px;
+    font-family: Open Sans Condensed;
+}
+
+.history1{
+    margin-top: -35px;
+    margin-left: 35px;
+    font-family: Open Sans Condensed;
+    font-size: 16px;
+}
+
+.sen{
+    background-image: url("/src/assets/layout/Rectangle 15.png");
+    width: 442px;
+    height: 550px;
+    margin-left: 150px;
+
+}
+
+.oth{
+    background-image: url("/src/assets/layout/Rectangle 16.png");
+    width: 443px;
+    height: 550px;
+    margin-left: 592px;
+    margin-top: -550px;
+}
+
+.jul{
+    background-image: url("/src/assets/layout/Rectangle 15 (2).png");
+    width: 442px;
+    height: 550px;
+    margin-left: 1036px;
+    margin-top: -550px;
+}
+
+.may{
+    background-image: url("/src/assets/layout/Rectangle 15 (2).png");
+    width: 442px;
+    height: 550px;
+    margin-left: 1478px;
+    margin-top: -550px;
+}
+.zglv{
+    font-size: 48px;
+    font-family: Open Sans Condensed;
+    margin-top: 150px;
+    margin-left: 761px;
+    color: white;
+}
+
+.lst{
+    background-image: url("/src/assets/layout/Rectangle 28.png");
+    width: 1110px;
+    height: 550px;
+    margin-top: 150px;
+    margin-left: 405px;
+}
+
+.txt{
+    font-family: Open Sans Condensed;
+    font-size: 18px;
+    color: white;
+
+}
+.sen1{
+    margin-left: 190px;
+    margin-top: -750px;
+}
+
+.jun{
+    margin-left: 650px;
+    margin-top: -40px;
+}
+
+.jul1{
+    margin-left: 1100px;
+    margin-top: -40px;
+}
+
+.may1{
+    margin-left: 1550px;
+    margin-top: -40px;
+}
+
+.year{
+    font-family: Open Sans Condensed;
+    font-size: 72px;
+    color:  #D1A954;
+    width: 182px;
+    height: 298px;
+    margin-top: 316px;
+    margin-left: 600px;
+}
+
+.tccl{
+    font-family: Open Sans;
+    font-size: 36px;
+    width: 540px;
+    height: 149px;
+    color: white;
+    margin-left: 880px;
+    margin-top: -300px;
+}
+
+.emmm{
+    margin-top:500px;
+    border-top: 1px solid  grey;
+    margin-left: 700px;
+    margin-right: 913px;
+}
